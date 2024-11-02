@@ -1,6 +1,4 @@
 
-Aqui está um README.md bem organizado e visualmente agradável para o projeto ToolsUnifi:
-
 ToolsUnifi
 ToolsUnifi é uma aplicação em Python com interface gráfica que facilita o gerenciamento de dispositivos UniFi da Ubiquiti. Ela permite realizar conexões SSH em múltiplos dispositivos UniFi simultaneamente, executando comandos de forma automatizada e exibindo os resultados em tempo real.
 
